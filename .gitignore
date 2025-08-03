@@ -1,0 +1,5 @@
+build/*
+.vscode/
+screenshots/
+BuildResources/
+android/build-android
